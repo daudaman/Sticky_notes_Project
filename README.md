@@ -17,7 +17,6 @@
 7. File Descriptions
 8. Database Setup
 9. User Management
-10. Troubleshooting
 
 ---
 
